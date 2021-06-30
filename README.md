@@ -1,2 +1,2 @@
 # Treyelo
-Created with CodeSandbox
+Copy of Trello
